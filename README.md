@@ -2,9 +2,14 @@
 
 # OBJETIVOS
 
-Objetivo General
+# Objetivo General
 
-Objetivos Específicos
+- Explicar conceptos relacionados al tema de inductores y transformados, por medio de un informe académico que incluya material de estudio en mapas mentales y la resolución de ejercicios propuestos, que permita a los lectores comprender de mejor manera la estructuración de los circuitos eléctricos.
+
+# Objetivos Específicos
+- Explicar de manera abstrata las caracteristicas del inductor, y sus efectos al estar conectados en un circuito en serie y paralelo.
+- Analizar la operación del transformador la cual se basa en el principio de inductancia mutua.
+- Resolver ejercicios practico para la aplicacion de los temas propuestos.
 
 # MARCO TEORICO
 
