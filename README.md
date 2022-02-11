@@ -1,4 +1,17 @@
 # TAREA-N-7
+
+# OBJETIVOS
+
+Objetivo General
+
+Objetivos Específicos
+
+# MARCO TEORICO
+
+# Capitulo 13
+
+# Capitulo 14
+
 # CAPITULO 13
 # EJERCICIO N°1
 
@@ -75,3 +88,10 @@
 # EJERCICIO N°17
 
 ![image](https://user-images.githubusercontent.com/93899422/153527401-d732fa64-53e1-4bdc-9d36-c19b7bcb0061.png)
+
+# VIDEO
+
+# CONCLUSIONES
+
+# BIBLIOGRAFÍA
+- Floyd, T. (2007). Principios de circuitos eléctricos (8a. ed.) (8th ed.). Naucalpan de Juárez: Pearson Educación.
