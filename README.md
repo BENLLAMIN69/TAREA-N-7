@@ -33,7 +33,7 @@
 
 # EJERCICIO N°1
 
-![image](https://user-images.githubusercontent.com/93900233/153543370-888dda76-8765-4eb1-870c-8151c626f4a3.png
+![image](https://user-images.githubusercontent.com/93900233/153607524-33ed4c27-6b33-48d5-b3db-2d7d45f09521.png)
 
 # EJERCICIO N°3
 
