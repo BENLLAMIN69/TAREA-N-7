@@ -10,7 +10,19 @@ Objetivos Específicos
 
 # Capitulo 13
 
+![](https://github.com/BENLLAMIN69/TAREA-N-7/blob/main/IMA/INDUCTOR.png)
+![](https://github.com/BENLLAMIN69/TAREA-N-7/blob/main/IMA/TIPOS%20DE%20INDUCTORES.png)
+![](https://github.com/BENLLAMIN69/TAREA-N-7/blob/main/IMA/png%20(17).png)
+![](https://github.com/BENLLAMIN69/TAREA-N-7/blob/main/IMA/png%20(18).png)
+![](https://github.com/BENLLAMIN69/TAREA-N-7/blob/main/IMA/png%20(19).png)
+
 # Capitulo 14
+
+![](https://github.com/BENLLAMIN69/TAREA-N-7/blob/main/IMA/png%20(20).png)
+![](https://github.com/BENLLAMIN69/TAREA-N-7/blob/main/IMA/png%20(21).png)
+![](https://github.com/BENLLAMIN69/TAREA-N-7/blob/main/IMA/png%20(22).png)
+![](https://github.com/BENLLAMIN69/TAREA-N-7/blob/main/IMA/png%20(23).png)
+![](https://github.com/BENLLAMIN69/TAREA-N-7/blob/main/IMA/png%20(24).png)
 
 # CAPITULO 13
 # EJERCICIO N°1
