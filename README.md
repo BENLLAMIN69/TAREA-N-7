@@ -110,5 +110,9 @@
 
 # CONCLUSIONES
 
+- A tarves del estudio de estos capitulos se comprendio que la base de la inductancia es el campo electromagnético que rodea cualquier conductor cuando fluye corriente a través de él.
+- Al entender el funcionamiento y la utilizacion de los transformadores, las aplicaciones que pueden tener son diversas como fuentes de potencia, distribución de potencia eléctrica, y acoplamiento de señales en sistemas de comunicaciones. 
+- Realiazado el estudio de los transformadores, se entendio que como no existe contacto eléctrico entre dos bobinas magnéticamente acopladas, la transferencia de energía de una bobina a la otra se logra en una situación de completo aislamiento eléctrico
+
 # BIBLIOGRAFÍA
 - Floyd, T. (2007). Principios de circuitos eléctricos (8a. ed.) (8th ed.). Naucalpan de Juárez: Pearson Educación.
